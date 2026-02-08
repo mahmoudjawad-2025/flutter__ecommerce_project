@@ -1,0 +1,103 @@
+{
+  "@@locale": "en",
+  "language": "Language",
+  "title": "Theme & Language Demo",
+  "pickThemeColor": "Pick Theme Color",
+  "@language": {
+    "description": "Note here with this structure you can add meta data as comments",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  
+  "@general": { 
+  "description": "//-------------------------------------------------------------------------- general"
+  },
+  "generalOk": "OK",
+  "generalCancel": "Cancel",
+  "generalYes":"Yes",
+  "generalNo":"No",
+  "generalSignIn": "Sign In", 
+  "generalSignUp":  "Sign Up",
+  "generalOr": "or",
+  "generalApply": "Apply",
+
+
+  "@name": { 
+  "description": "//-------------------------------------------------------------------------- name"
+  },
+  "nameFacebook": "Facebook",
+  "nameGoogle": "Google",
+  "nameAppleId": "Apple ID",
+
+
+  "@message": {
+  "description": "//-------------------------------------------------------------------------- message"
+  },
+  "messageAreYouSure":"Are you sure?",
+  "messageProblem": "Sorry, something went wrong",
+  "messageFailure": "Sorry, proccess failed",
+  "messageSuccess":"Proccess done successfully!",
+
+  
+  "@error": {
+  "description": "//-------------------------------------------------------------------------- error "
+  },
+  "errorFeildsNotCompatable":"Feilds aren't Compatable!",
+  "errorPasswordDoesntMatch":"Password Doesn't Match",
+  "errorShortLength" : "less than minimum length",
+  "errorShouldStartWithChar": "Must start with a char",
+  "errorEmailSyntax": "Enter valid email",
+  "errorPhoneNumberSyntax": "Please enter a valid number",
+  "errorNonValidCode":"Enter valid code please",
+  "errorFeildRequired": "This feild is required",
+  "errorInvalidEmailOrPassword": "Invalid email or password",
+
+
+  "@button": {
+  "description": "//-------------------------------------------------------------------------- button"
+  },
+  "buttonResendAgain":"Resend Again",
+  "buttonSend": "Send",
+  "buttonSubmit": "Submit",
+  "buttonReset":"Reset",
+  "buttonForgetPassword": "Forgot Password?",
+
+
+  "@label": {
+  "description": "//-------------------------------------------------------------------------- label "
+  },
+  "labelFirstName": "First Name",
+  "labelLastName": "Last Name",
+  "labelEmail": "Email",
+  "labelPassword": "Password",
+  "labelNewPassword":"NewPassword",
+  "labelConfirmPassword":"ConfirmPassword",
+  
+
+  "@title": {
+  "description": "//-------------------------------------------------------------------------- title "
+  },
+  "titleWelcome": "Welcome !",
+  "titleCreateAccount":"Create Account",
+  "titleStep1":"Step 1",
+  "titleStep2":"Step 2",
+  "titleStep3":"Step 3",
+
+
+  "@text": {
+  "description": "//-------------------------------------------------------------------------- text "
+  },
+  "textDontHaveAccount": "Don't have account?",
+  "textDoYouHaveAccount": "Do you have already an account?",
+  "textTimeRemaining":"Time Remaining: ",
+  
+  
+  "@comment": {
+  "description": "//-------------------------------------------------------------------------- custom "
+  },
+  "customEnterYourPhone":"Enter your phone number to receive a code :",
+  "customEnterCode":"Enter the code please :",
+  "customSetNewPassword":"Set a New Password"
+
+}

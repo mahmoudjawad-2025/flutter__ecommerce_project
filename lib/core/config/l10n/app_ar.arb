@@ -1,0 +1,102 @@
+{
+  "@@locale": "ar",
+  "language": "اللغة",
+  "title": "تجربة الثيم واللغة",
+  "pickThemeColor": "اختر لون الثيم",
+  "@language": {
+    "description": "لاحظ يمكنك اضافة هذا القسم(ميتا داتا) بفروعه الثلاثة فقط للملاحظات ليس إلا",
+    "type": "text",
+    "placeholders": {}
+  },
+
+
+  "@general": { 
+    "description": "//-------------------------------------------------------------------------- general"
+  },
+  "generalOk": "حسناً",
+  "generalCancel": "إلغاء",
+  "generalYes": "نعم",
+  "generalNo": "لا",
+  "generalSignIn": "تسجيل الدخول", 
+  "generalSignUp": "إنشاء حساب",
+  "generalOr": "أو",
+  "generalApply": "فعل",
+
+
+  "@name": { 
+  "description": "//-------------------------------------------------------------------------- name"
+  },
+  "nameFacebook": "فيسبوك",
+  "nameGoogle": "جوجل",
+  "nameAppleId": "أبل آي دي",
+
+
+  "@message": {
+    "description": "//-------------------------------------------------------------------------- message"
+  },
+  "messageAreYouSure": "هل أنت متأكد؟",
+  "messageProblem": "عذراً، حدث خطأ ما",
+  "messageFailure": "عذراً، فشلت العملية",
+  "messageSuccess": "تمت العملية بنجاح!",
+
+
+  "@error": {
+    "description": "//-------------------------------------------------------------------------- error "
+  },
+  "errorFeildsNotCompatable": "الحقلان غير متطابقان",
+  "errorPasswordDoesntMatch": "كلمة المرور غير متطابقة",
+  "errorShortLength": "أقصر من الطول المطلوب",
+  "errorShouldStartWithChar": "يجب أن يبدأ بحرف",
+  "errorEmailSyntax": "الرجاء إدخال بريد إلكتروني صالح",
+  "errorPhoneNumberSyntax": "من فضلك أدخل رقما صالحاً",
+  "errorNonValidCode": "الرجاء إدخال رمز صحيح",
+  "errorFeildRequired": "هذا الحقل مطلوب!",
+  "errorInvalidEmailOrPassword": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+
+  
+  "@button": {
+    "description": "//-------------------------------------------------------------------------- button"
+  },
+  "buttonResendAgain": "إعادة الإرسال",
+  "buttonSend": "إرسال",
+  "buttonSubmit": "تأكيد",
+  "buttonReset": "إعادة تعيين",
+  "buttonForgetPassword": "هل نسيت كلمة المرور؟",
+
+
+  "@label": {
+    "description": "//-------------------------------------------------------------------------- label "
+  },
+  "labelFirstName": "الاسم الأول",
+  "labelLastName": "اسم العائلة",
+  "labelEmail": "البريد الإلكتروني",
+  "labelPassword": "كلمة المرور",
+  "labelNewPassword": "كلمة مرور جديدة",
+  "labelConfirmPassword": "تأكيد كلمة المرور",
+
+
+  "@title": {
+    "description": "//-------------------------------------------------------------------------- title "
+  },
+  "titleWelcome": "مرحباً!",
+  "titleCreateAccount": "إنشاء حساب",
+  "titleStep1": "الخطوة 1",
+  "titleStep2": "الخطوة 2",
+  "titleStep3": "الخطوة 3",
+
+
+  "@text": {
+    "description": "//-------------------------------------------------------------------------- text "
+  },
+  "textDontHaveAccount": "ليس لديك حساب؟",
+  "textDoYouHaveAccount": "هل لديك حساب بالفعل؟",
+  "textTimeRemaining": "الوقت المتبقي: ",
+
+
+  "@comment": {
+    "description": "//-------------------------------------------------------------------------- custom "
+  },
+  "customEnterYourPhone": "أدخل رقم هاتفك لاستلام رمز:",
+  "customEnterCode": "أدخل الرمز من فضلك:",
+  "customSetNewPassword": "قم بتعيين كلمة مرور جديدة"
+}

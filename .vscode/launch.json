@@ -1,0 +1,28 @@
+// {
+//     "configurations": [
+//         {
+//             "name": "Flutter (lib\\main.dart)",
+//             "type": "dart",
+//             "request": "launch",
+//             "program": "lib\\main.dart"
+//         }
+//     ]
+// }
+
+// replaced by this temprorarly for current flutter version issue 
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter Debug",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "args": [],
+      "exceptionBreakpoints": {
+        "all": false,
+        "uncaught": true
+      }
+    }
+  ]
+}

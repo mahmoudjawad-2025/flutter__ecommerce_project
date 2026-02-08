@@ -1,0 +1,11 @@
+arb-dir: lib/core/config/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+# Quiet the console (use sparingly!)
+suppress-warnings: true
+
+preferred-supported-locales:
+  - en
+  - ar
+# Optional: write missing translations to a file instead of spamming stdout
+untranslated-messages-file: untranslated.json

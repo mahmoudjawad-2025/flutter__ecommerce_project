@@ -1,0 +1,34 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+    prefer_const_declarations: true
+    prefer_const_constructors_in_immutables: true
+    unnecessary_const: true
+
+    # Disabled rules
+    constant_identifier_names: false
+    non_constant_identifier_names: false
+    library_prefixes: false
+    file_names: false
+    avoid_classes_with_only_static_members: false
+    curly_braces_in_flow_control_structures: false
+
+    # group pro 1
+    avoid_print: true
+    avoid_unnecessary_containers: true
+    use_key_in_widget_constructors: true
+    # sort_constructors_first: true
+    sort_child_properties_last: true
+    unnecessary_late: true
+
+    # group pro 2
+    prefer_final_locals: true
+    avoid_field_initializers_in_const_classes: true
+    # prefer_expression_function_bodies: false  # Use => instead of {} where possible
+    always_declare_return_types: true
+    type_annotate_public_apis: true # Adds clarity to public-facing methods
+
+# https://dart.dev/guides/language/analysis-options
