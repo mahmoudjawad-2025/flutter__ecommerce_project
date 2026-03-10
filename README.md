@@ -22,7 +22,6 @@
 - [✨ Key Features](#-key-features)
 - [🌍 Internationalization](#-internationalization)
 - [📦 Tech Stack](#-tech-stack)
-- [🚀 Future Roadmap](#-future-Roadmap)
 - [🏁 Getting Started](#-getting-started)
 - [📞 Contact](#-contact)
 
@@ -82,14 +81,6 @@ Built for a global audience with full RTL support.
 <hr>
 
 
-## 🚀 Future Roadmap
-
-- [ ] Finish Product Listing & Details pages
-- [ ] Implement Cart & Checkout flow
-- [ ] Integrate User Authentication (Firebase/API)
-- [ ] Add Payment Gateway integration
-- [ ] Comprehensive Unit & Widget Tests
-
 <br>
 <hr>
 
@@ -99,7 +90,7 @@ To explore the current state of the project:
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/ecommerce_app.git
+   git clone <repo-url>
    ```
 2. **Install dependencies**
    ```bash
@@ -121,6 +112,6 @@ To explore the current state of the project:
 
 ## 📞 Contact
 
-📧 mahmoudjawad02025@gmail.com
-
-🔗 GitHub: [mahmoudjawad-2025](https://github.com/mahmoudjawad-2025/)
+- 📧 **Email**: [mahmoudjawad02025@gmail.com](mailto:mahmoudjawad02025@gmail.com)
+- 💻 **GitHub Profile**: [@mahmoudjawad-2025](https://github.com/mahmoudjawad-2025/)
+- 💼 **LinkedIn:** [linkedin.com/in/mahmoud-abu-alsebaa](https://linkedin.com/in/mahmoud-abu-alsebaa)
