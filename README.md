@@ -36,7 +36,7 @@ This project showcases a modern, scalable architecture for building cross-platfo
 <br>
 <hr>
 
-## ✨ Key Features (Implemented & Planned)
+## ✨ Key Features
 
 ### 📱 Adaptive & Responsive UI
 Designed to look stunning on any screen size.
@@ -45,8 +45,8 @@ Designed to look stunning on any screen size.
 - **Desktop Friendly**: Full-width utilization for web and desktop platforms.
 - **Tech**: Utilizes `flutter_screenutil` and `device_preview` for pixel-perfect scaling.
 
-### 🌍 Internationalization (i18n)
-Built for a global audience with full RTL support.
+### 🌍 Internationalization 
+Built for a global audience with full RTL support. (i18n)
 - **Languages**: English 🇺🇸 / Arabic 🇸🇦
 - **Seamless Switching**: Instant language toggle without restarting the app.
 - **Tech**: Powered by `flutter_localizations` and `provider`.
@@ -63,7 +63,7 @@ Built for a global audience with full RTL support.
 <hr>
 
 
-## 📦 Tech Stack & Packages
+## 📦 Tech Stack
 
 | Category | Package | Description |
 |----------|---------|-------------|
